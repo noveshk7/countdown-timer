@@ -60,10 +60,33 @@ npm run preview
 
 ---
 
-## 👨‍💻 Author
+## 📖 Usage
+1. Open the app in your browser.
+2. Enter a target date.
+3. Watch the countdown update live.
+4. Use for events, deadlines, or reminders.
 
-- Developed by **Novesh Kumar Gautam**
-- GitHub: [noveshk7](https://github.com/noveshk7)
+---
+
+## 🌟 Future Enhancements
+- ⏰ Multiple countdowns
+- 🔔 Sound notification at end
+- 🎨 Theming options
+- 💾 Save countdown in LocalStorage
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!
+- Fork the repo
+- Create a feature branch
+- Submit a pull request 🚀
+
+---
+
+## 👨‍💻 Author
+Developed by **Novesh Kumar Gautam**  
+GitHub: [noveshk7](https://github.com/noveshk7)
 
 ---
 
