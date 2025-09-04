@@ -85,8 +85,8 @@ Contributions are welcome!
 ---
 
 ## 👨‍💻 Author
-Developed by **Novesh Kumar Gautam**  
-GitHub: [noveshk7](https://github.com/noveshk7)
+- Developed by **Novesh Kumar Gautam**  
+- GitHub: [noveshk7](https://github.com/noveshk7)
 
 ---
 
